@@ -17,7 +17,6 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Lucas Lapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslapaz&show_icons=true&theme=dracula&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslapaz&layout=compact&langs_count=10&theme=dracula)
