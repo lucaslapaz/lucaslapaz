@@ -14,10 +14,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank">
 </a>
 
+
 #
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslapaz&layout=compact&langs_count=10&theme=dracula"/>
+
+![Lucas Lapaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslapaz&layout=compact&langs_count=10&theme=dracula)
+
 
 ### Tecnologias que eu utilizo:
 
