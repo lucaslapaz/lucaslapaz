@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lucas. 😁
+## Olá! Eu sou o Lucas. 😁
 
 ### Outras redes sociais que você pode me encontrar:
 
